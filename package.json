@@ -1,7 +1,7 @@
 {
   "name": "jest-expect-har",
   "version": "7.0.0",
-  "description": "Jest matcher for asserting valid HAR definitions",
+  "description": "Jest/Vitest matcher for asserting valid HAR definitions",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
