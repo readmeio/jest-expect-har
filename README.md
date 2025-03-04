@@ -1,3 +1,6 @@
+> [!IMPORTANT]  
+> `jest-expect-har` has moved! The source for this library now lives at https://github.com/readmeio/oas.
+
 # jest-expect-har
 
 A [Jest](https://jestjs.io/) custom matcher for asserting valid [HAR](<https://en.wikipedia.org/wiki/HAR_(file_format)>) definitions. Also supports [Vitest](https://vitest.dev/).
